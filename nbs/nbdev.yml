@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-generate-social-image-cmd"
+  site-url: "https://harishmohanraj.github.io/test-generate-social-image-cmd"
+  description: "test-generate-social-image-cmd"
+  repo-branch: main
+  repo-url: "https://github.com/harishmohanraj/test-generate-social-image-cmd"
