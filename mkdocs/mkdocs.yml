@@ -102,4 +102,4 @@ extra_javascript:
 extra:
   version:
     provider: mike
-  social_image: "https://opengraph.githubassets.com/1687823772.391088/harishmohanraj/test-generate-social-image-cmd"
+  social_image: "overrides/images/social_image.png"
